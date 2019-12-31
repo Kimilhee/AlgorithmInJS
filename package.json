@@ -1,0 +1,23 @@
+{
+  "name": "AlgorithmInJS",
+  "version": "1.0.0",
+  "description": "Algorithm implemented in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimilhee/AlgorithmInJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimilhee/AlgorithmInJS/issues"
+  },
+  "homepage": "https://github.com/Kimilhee/AlgorithmInJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
